@@ -1,0 +1,1 @@
+Buenas profe, este texto es para comentarle que hice la conexiòn de la base de datos con la aplicacion web pero no pude conectarla con la pagina que estabamos haciendo, una disculpa.
